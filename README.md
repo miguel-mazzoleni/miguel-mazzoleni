@@ -1,4 +1,9 @@
 ## Bem-vindo(a) ao perfil de Miguel Mazzoleni
+
+💻🌱Cursando: Análise e Desenvolvimento de Sistemas (em execução)
+
+💻💭Buscando: Ciência da Computação (loading...)
+
  <div>
    <a href="https://github.com/miguel-mazzoleni">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguel-mazzoleni&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
