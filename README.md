@@ -1,8 +1,8 @@
-## Bem-vindo(a) ao perfil de Miguel Mazzoleni
+## Bem-vindo(a) ao perfil de Ronilson Candido
 
-💻🌱Cursando: Análise e Desenvolvimento de Sistemas (em execução)
+💻Técnico em Análise e Desenvolvimento de Sistemas
 
-💻💭Buscando: Ciência da Computação (loading...)
+💻💭 Ciência da Computação (loading...)
 
  <div>
    <a href="https://github.com/miguel-mazzoleni">
@@ -22,7 +22,7 @@
   
 <div> 
   <a href="https://www.instagram.com/miguelmzzo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:miguelmazzoleni@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ronilsoncnd@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  
   ![Snake animation](https://github.com/miguel-mazzoleni/miguel-mazzoleni/blob/output/github-contribution-grid-snake.svg)
