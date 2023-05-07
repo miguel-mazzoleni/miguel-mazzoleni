@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil de Ronilson Candido
 
-💻Técnico em Análise e Desenvolvimento de Sistemas
+💻 Graduação: Análise e Desenvolvimento de Sistemas
 
 💻💭 Ciência da Computação (loading...)
 
