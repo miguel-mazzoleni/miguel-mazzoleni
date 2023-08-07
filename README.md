@@ -1,13 +1,13 @@
-## Bem-vindo(a) ao perfil de Ronilson Candido
+## Bem-vindo(a) ao perfil de Miguel Mazzoleni
 
 💻 Graduação: Análise e Desenvolvimento de Sistemas
 
-💻💭 Ciência da Computação (loading...)
+💻💭 Engenharia da Computação (loading...)
 
  <div>
-   <a href="https://github.com/ronilson-candido">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronilson-candido&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronilson-candido&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/miguel-mazzoleni">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguel-mazzoleni&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-mazzoleni&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
