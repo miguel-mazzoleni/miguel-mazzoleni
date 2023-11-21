@@ -1,8 +1,9 @@
 ## Bem-vindo(a) ao perfil de Miguel Mazzoleni
 
-💻 Graduação: Análise e Desenvolvimento de Sistemas
+Técnico em Análise e Desenvolvimento de Sistemas
 
-💻💭 Engenharia da Computação (loading...)
+💻 Engenharia da Computação (loading...)
+
  <div>
    <a href="https://github.com/miguel-mazzoleni">
 
